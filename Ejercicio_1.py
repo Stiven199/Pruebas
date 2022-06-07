@@ -9,3 +9,4 @@ for i in range(4):
     j=j+1
     c[j]=b[i]
     c.append(b[i])
+    #se han actualizado varias cosas
